@@ -3,8 +3,10 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import { fileURLToPath, URL } from "node:url";
 
+const isGithubPages = process.env.GITHUB_PAGES === "true";
+
 export default defineConfig({
-  base: "/My-Portfolio/",
+  base: isGithubPages ? "/My-Portfolio/" : "/",
 
   plugins: [react(), tailwindcss()],
 
