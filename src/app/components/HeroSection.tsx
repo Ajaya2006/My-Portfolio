@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 import profile from "@/assets/profile.png";
-import githubIcon from "@/assets/GitHub.png";
+import githubIcon from "@/assets/Github.png";
 import linkedinIcon from "@/assets/Linkedin.png";
 import facebookIcon from "@/assets/Facebook.png";
 import instagramIcon from "@/assets/Instagram.png";
