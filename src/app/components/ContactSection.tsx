@@ -7,8 +7,8 @@ import emailjs from "@emailjs/browser";
 
 import contactImage from "@/assets/get-in-touch.png";
 import logo from "@/assets/logo.png";
-import githubIcon from "@/assets/github.png";
-import linkedinIcon from "@/assets/linkedin.png";
+import githubIcon from "@/assets/Github.png";
+import linkedinIcon from "@/assets/Linkedin.png";
 import twitterIcon from "@/assets/twitter.png";
 
 export function ContactSection() {

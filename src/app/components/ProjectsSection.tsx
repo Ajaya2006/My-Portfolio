@@ -9,7 +9,7 @@ import bankingImg from "@/assets/banking.png";
 import ecomImg from "@/assets/ecom.png";
 import weatherImg from "@/assets/weather.png";
 import portfolioImg from "@/assets/portfolio.png";
-import originOSImg from "@/assets/originOS.png";
+import originOSImg from "@/assets/originos.png";
 
 export function ProjectsSection() {
   const projects = [
